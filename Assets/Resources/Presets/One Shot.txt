@@ -1,0 +1,1 @@
+/Max/Health:2;/Max/Energy:1;/Starting/Health:2;/Regen/Energy:0.5;
